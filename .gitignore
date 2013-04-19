@@ -1,0 +1,24 @@
+#Python files
+*.log
+*.pot
+*.pyc
+*.pyo
+
+#IDE specific
+*.komodoproject
+*.project
+*.pydevproject
+*.kate-swp
+.settings/*
+.kateproject.d/*
+
+#Virtual env
+.v_env/*
+
+#Mac specific
+*.DS_Store
+
+#Project
+pwd.txt
+.kateproject
+*.sublime-*
